@@ -27,7 +27,7 @@ body{}
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
   --fs-h3: 1.25rem;
-  --fs-body: 1rem;
+  --fs-body: 1.2rem;
 
   --bs: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
         0.125em 0.125em 0.25em rgba(0,0,0,.25);
@@ -410,9 +410,8 @@ header{
 
 
 /* about me */
-
 .about-me {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
 
 }
@@ -549,7 +548,7 @@ header{
   }
   
   .flex-container div {
-    width: 20vw;
+    width: 13vw;
     justify-content: center;
   }
 
